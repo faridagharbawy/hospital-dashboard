@@ -22,8 +22,6 @@ This project provides a comprehensive analysis of hospital performance and patie
 * **Efficiency Benchmarking:** Created a ranking system for 90 hospitals based on average stay duration to identify high-performing facilities.
 * **Correlation Mapping:** Used scatter plots to correlate diagnosis volume with resource-heavy stay durations (5.3–5.7 days avg).
 
-## 🖥️ Dashboard Preview
-![Hospital Dashboard](Hospital%20Dashboard.jpg)
 
 ## 🚀 How to Use
 1. **Python Analysis:** Run the `hospital.ipynb` to see the data cleaning steps and statistical validation.
